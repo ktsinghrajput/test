@@ -1,5 +1,0 @@
-{{#user}}
-Name: Kumar Tushar
-Skills: HTML, CSS, C++, JS
-Email: iamkumartushar@gmail.com
-{{/user}}
